@@ -1,4 +1,4 @@
-# PokéDeck
+# PokéDeck: A 1-week study project to practice TCA basics.
 
 A native iOS Pokémon library application exploring the intersection of **strict state management (TCA)** and **industrial design principles** (Tactile UX).
 
